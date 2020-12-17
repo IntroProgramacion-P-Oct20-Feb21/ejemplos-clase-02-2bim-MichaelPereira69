@@ -16,7 +16,7 @@ public class Ejemplo01 {
      */
     public static void main(String[] args) {
         // Declarar y generar arreglos en Java
-
+          
         // arreglo de tipo entero
         int[] arreglo1 = new int[5];
 
